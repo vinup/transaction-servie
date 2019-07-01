@@ -4,11 +4,11 @@ This was completed for ME Bank code assessment in Java 8.
 ## Usage
     
 ### Running via distributions package
-This has been build using gradle and can be run with gradle wrapper which has been included.
+This has been built using gradle and can be run with gradle wrapper which has been included.
 
 Once the the zip file has been extracted, 
 1. Go to the extraction directory. 
-2. Build the project with 
+2. Build the project with the command `gradlew clean build`
 3. Check RequestControllerTest to verify the test case and run it on the IDE to see the test results.
 
 The test RequestControllerTest will be run and outputs the response as below. 
